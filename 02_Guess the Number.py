@@ -31,6 +31,10 @@ if difficulty == 'easy':
 elif difficulty == 'hard':
     attempts = 5
 
+else:
+    print("Invalid difficulty choice. Setting to 'easy by default.")
+    attempts = 10
+
 num = randint(1,100)
 guess = 0
 
@@ -46,6 +50,3 @@ while guess != num and attempts > 0:
 
     elif guess != num:
         print("Guess again.")
-
-
-
