@@ -8,4 +8,4 @@ My code ended up differing quite a bit from the intended solution but I am very 
 
 # Guess the Number #
 Coding project for Day 12 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 7/9/24.<br><br>
-Relatively straightforward activity but I noticed that the solution tend to put the entire code as a function, e.g. def game(), while I like to type the code outside of a function, but both ways work (for now).
+Relatively straightforward but I noticed that the solution tend to put the entire code as a function, e.g. def game(), while I like to type the main code outside of a function. Both ways work (for now).
