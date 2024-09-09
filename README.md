@@ -8,3 +8,7 @@ My code ended up differing quite a bit from the intended solution but I am very 
 # Guess the Number #
 Coding project for Day 12 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 7/9/24.<br><br>
 Relatively straightforward but I noticed that the solution tend to put the entire code as a function, e.g. def game(), while I like to type the main code outside of a function. Both ways work (for now).
+
+# Higher Lower #
+Coding project for Day 14 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 9/9/24.<br><br>
+PyCharm was a bit buggy today (did not let me insert new rows and new text would just overwrite old text) which made coding a lot more frustrating than usual. This coding practice drilled a lot on how to index from a list with nested dictionaries and I definitely had to go back to the previous lessons to remember how to do it. Getting a hang of creating functions and while loops.
