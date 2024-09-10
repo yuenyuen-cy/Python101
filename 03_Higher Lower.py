@@ -341,17 +341,18 @@ def check_answer(answer, a_followers, b_followers):
 print(logo)
 score = 0
 continue_game = True
+option_b = random.choice(data)
 
 while continue_game:
 
-    option_a = random.choice(data)
+    option_a = option_b
     option_b = random.choice(data)
-    while option_a == option_b:
+    if option_a == option_b:
         option_b = random.choice(data)
 
     print(f"Compare A: {generate_options(option_a)}")
     print(vs)
-    print(f"Compare B: {generate_options(option_b)}")
+    print(f"Against B: {generate_options(option_b)}")
 
     player_ans = input("Who has more followers? Type 'A' or 'B'\n").lower()
 
