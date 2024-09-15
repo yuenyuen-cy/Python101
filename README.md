@@ -16,3 +16,7 @@ PyCharm was a bit buggy today (did not let me insert new rows and new text would
 # Coffee Machine #
 Day 15 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 10/9/24. Last of the Beginner projects before we move on to Intermediate! <br><br>
 It was a pretty large project and I completed it without looking at the solution at all this time! I followed the instructor's recommendation to break down the project into smaller tasks and it definitely made the project a lot more manageable. I also started using the debugging tool on PyCharm to help me visualise my code. Still need to figure out how to use it for actual debugging. Took >2 hours to complete (with a long break in between) but its a satisfying project. 
+
+# Hirst Painting #
+
+Day 18 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 15/9/24. The project was relatively straightforward but it took me 2 days to complete due to school commitment. The main takeaway was learning to use documentation to write code. It was also cool to learn how to extract colors from an image using colorgram.py.
