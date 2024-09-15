@@ -25,5 +25,10 @@ Day 18 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
   <img src="https://github.com/user-attachments/assets/ac562df0-287f-4143-ba47-ff25849cda65" alt="hirst-painting" />
 </div>
 
+# Turtle Race #
 
+Day 19 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 15/9/24 (Two in a day!) Another simple project using the Turtle Console but it was very fun to code and ended with an interactive product. The idea of creating independent objects using the same class is easy to grasp. However, my first instinct was to create 6 different turtles by copy pasting the same set of code, but realised that there's probably a more efficient way of creating the turtles. Controlling the turtles was another challenge but this project has definitely reinforced what I have previously learned about for loops.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0858f346-a442-48d8-998d-6fdd73e824bf" alt="turtle-race2" />
+</div>
