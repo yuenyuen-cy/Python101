@@ -20,3 +20,7 @@ It was a pretty large project and I completed it without looking at the solution
 # Hirst Painting #
 
 Day 18 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 15/9/24. The project was relatively straightforward but it took me 2 days to complete due to school commitment. The main takeaway was learning to use documentation to write code. It was also cool to learn how to extract colors from an image using colorgram.py.
+
+![hirst-painting](https://github.com/user-attachments/assets/ac562df0-287f-4143-ba47-ff25849cda65)
+
+
