@@ -32,3 +32,9 @@ Day 19 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0858f346-a442-48d8-998d-6fdd73e824bf" alt="turtle-race2" />
 </div>
+
+# Snake Game # 
+
+Day 20 and 21 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b> !! Disclaimer: Did this more of a follow along tutorial rather than an independent task.<br>
+
+This was probably one of the more complex projects in the course thus far as we had to create the classes from scratch. While there were many ways to write the code, I found that I had to stick with the tutorial in order to keep up with the new concepts I was learning. Definitely fun to form the different classes that make up the Snake Game. Looking forward to re-creating something similar on my own. 
