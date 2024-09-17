@@ -39,14 +39,7 @@ Day 20 and 21 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, comp
 
 This was probably one of the more complex projects in the course thus far as we had to create the classes from scratch. While there were many ways to write the code, I found that I had to stick with the tutorial in order to keep up with the new concepts I was learning. Definitely fun to form the different classes that make up the Snake Game. Looking forward to re-creating something similar on my own. 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/16b626fc-abe3-42ed-8f7b-02872d6f6df6" alt="snake-game" />
-</div>
-
 # Pong #
 
 Day 22 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 17/9/24. Like the snake game, the project was broken down into smaller challenges and I tried my best to attempt each challenge on my own before seeing the solution. Trying to solve the challenges felt like mental gymnastics. One of the most frustrating obstacles I faced was figuring out why the ball wasn't moving, even though the code seemed error-free. After extensive research and some guidance from ChatGPT, I discovered that the issue stemmed from incorrectly redefining the self attribute in a subclass. I initially assumed that the concepts I learned from the Snake game would seamlessly translate to the Pong game. However, I quickly realized that coding isn't always about applying a fixed template. Each project brings its own set of unique challenges, requiring flexibility and adaptation beyond standard patterns. I hope that problem solving would come more intuitively as I code more.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/18d93f19-f741-4807-b4fb-75fae52fcd05" alt="pong" />
-</div>
