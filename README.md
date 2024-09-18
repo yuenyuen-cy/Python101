@@ -47,7 +47,7 @@ I initially assumed that the concepts I learned from the Snake game would seamle
 
 # Turtle Crossing #
 
-Another Capstone Project for Day 23 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 18/9/24. Proud to say I managed to complete most of the coding by myself by referencing the code from the previous two projects! It was a huge struggle trying to figure out how to generate the car obstacles and make them move and ended up referring to the solution. The rest of the tasks were manageable and really fun to code. Used a Pomodoro Timer on YouTube to manage my time and it definitely helped me focus and complete the entire project in one hour. 
+Another Capstone Project for Day 23 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 18/9/24. Proud to say I managed to complete most of the coding by myself by referencing the code from the previous two projects! It was a huge struggle trying to figure out how to generate the car obstacles and make them move and ended up referring to the solution. The rest of the tasks were manageable and really fun to code. Tried out a Pomodoro Timer to manage my time and it definitely helped me focus and complete the entire project in 1.5 hr. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7a21c10b-70c1-48a7-9e7c-a1adb8f56cc9" alt="turtle-crossing">
