@@ -53,3 +53,6 @@ Another Capstone Project for Day 23 of <b>100 Days of Code: The Complete Python 
   <img src="https://github.com/user-attachments/assets/7a21c10b-70c1-48a7-9e7c-a1adb8f56cc9" alt="turtle-crossing">
 </p>
 
+# Mail Merge #
+
+Day 24 of  <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 19/9/24. Was very excited for this project because (1) we are finally moving away from Turtle console and (2) mail merge was a feature I discovered at a previous job that was a HUGE gamechanger. In this lesson, we learnt how to open, read and write to files. Took me less than 30 minutes to complete the challenge and I felt that it was a lot simplier than I expected it to be. Note: I should have used the readlines() feature instead of append() to extract the list of names but both works.
