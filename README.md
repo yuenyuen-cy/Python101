@@ -55,4 +55,8 @@ Another Capstone Project for Day 23 of <b>100 Days of Code: The Complete Python 
 
 # Mail Merge #
 
-Day 24 of  <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 19/9/24. Was very excited for this project because (1) we are finally moving away from Turtle console and (2) mail merge was a feature I discovered at a previous job that was a HUGE gamechanger. In this lesson, we learnt how to open, read and write to files. Took me less than 30 minutes to complete the challenge and I felt that it was a lot simplier than I expected it to be. Note: I should have used the readlines() feature instead of append() to extract the list of names but both works.
+Day 24 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 19/9/24. Was very excited for this project because (1) we are finally moving away from Turtle console and (2) mail merge was a feature I discovered at a previous job that was a HUGE gamechanger. In this lesson, we learnt how to open, read and write to files. Took me less than 30 minutes to complete the challenge and I felt that it was a lot simplier than I expected it to be. Note: I should have used the readlines() feature instead of append() to extract the list of names but both works.
+
+# US States Game #
+
+Moving on the Python packages on Day 25 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 20/9/24. I previously learnt about pandas package from a Data Science bootcamp I really attended so today's lesson was a good refresher for me to further reinforce the knowledge. I still struggled a bit with indexing from a DataFrame for today's project but it was manageable. 
