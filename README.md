@@ -59,4 +59,8 @@ Day 24 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
 
 # US States Game #
 
-Moving on the Python packages on Day 25 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 20/9/24. I previously learnt about pandas package from a Data Science bootcamp I really attended so today's lesson was a good refresher for me to further reinforce the knowledge. I still struggled a bit with indexing from a DataFrame for today's project but it was manageable. 
+Moving on the Python packages on Day 25 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 20/9/24. I previously learnt about pandas package from a Data Science bootcamp I really attended so today's lesson was a good refresher for me to further reinforce the knowledge. Struggled a little on indexing rows from a DataFrame and learnt about the importance of using .item() when pulling values from a Series. Day 25 was a very long lesson but the project was manageable.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fbd6749e-80cd-4f3f-b4a8-08c2d4bdf2d1" alt="states-game" />
+</div>
