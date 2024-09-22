@@ -64,3 +64,12 @@ Moving on the Python packages on Day 25 of <b>100 Days of Code: The Complete Pyt
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fbd6749e-80cd-4f3f-b4a8-08c2d4bdf2d1" alt="states-game" />
 </div>
+
+# Miles to KM Converter #
+
+Day 27 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 22/9/24. Today's lesson was on arguments, e.g. optional arguments, many positional arguments (*args) and many keyword arguments (**kwargs). It was quite unrelated to the project of the day which was to create a GUI for a distance converter. Managed to complete the challenge on my own and made use of stack overflow as well as the documentation to figure out how to adjust the attributes, such as as color and padding, of the different elements.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6532a699-5fff-4422-86b6-0ba505e65b31" alt="miles-to-km" />
+</div>
+
