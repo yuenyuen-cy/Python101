@@ -73,3 +73,11 @@ Day 27 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
   <img src="https://github.com/user-attachments/assets/6532a699-5fff-4422-86b6-0ba505e65b31" alt="miles-to-km" />
 </div>
 
+# Pomodoro Timer #
+
+Day 28 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 23/9/24. Created a really cute Pomodoro timer, which is pretty "timely" considering I just learnt about Pomodoro timers a few days ago! The Pomodoro timer is basically a very useful time management tool that works on a 25 mins work - 5 mins rest cycle with a longer break after 4 work-rest cycles (but I rarely get to that point). Disclaimer: This project was more of a follow-along tutorial with some challenges here and there. It was more challenging than the other projects because I was not familiar with Tkinter yet and there were a lot of moving parts, i.e. the timer. However, I managed to code the entire UI independently using what was taught in the previous lesson. One huge mistake I made today was forgetting to call the global variable when using it in a function. Took me way too long scratching my head over why my code was coming back with an error, but I'm glad I figured it out! Good to learn it the hard way now!
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a3b3592d-4142-42e6-bead-be41ba41ba92" alt="pomodoro" />
+</div>
+
