@@ -83,7 +83,7 @@ Day 28 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
 
 # Password Manager #
 
-Day 28 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 24/9/24. Created a Password Manager App using a Graphical User Interface (GUI). There were multiple elements to this project, namely (1) coding the UI, (2) saving the password to a file and (3) generating a random password and copying it to the clipboard. I am proud to say I was able to complete each task independently and with relative ease. I particularly enjoyed creating the UI as it was so satisying arranging the different elements into its position.<br>
+Day 29 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 24/9/24. Created a Password Manager App using a Graphical User Interface (GUI). There were multiple elements to this project, namely (1) coding the UI, (2) saving the password to a file and (3) generating a random password and copying it to the clipboard. I am proud to say I was able to complete each task independently and with relative ease. I particularly enjoyed creating the UI as it was so satisying arranging the different elements into its position.<br>
 
 Also fun fact, I solved the "bug" from Day 14! Its caused by pressing "Insert" on my keyboard. Have been "fixing the bug" by closing and opening PyCharm again, which was a very bandaid-like quick fix. Turns out I just needed to google to find the solution. Everyday I learn something new!
 
