@@ -1,5 +1,3 @@
-from ctypes.wintypes import SHORT
-from itertools import count
 from tkinter import *
 import math
 # ---------------------------- CONSTANTS ------------------------------- #
