@@ -81,3 +81,11 @@ Day 28 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
   <img src="https://github.com/user-attachments/assets/a3b3592d-4142-42e6-bead-be41ba41ba92" alt="pomodoro" />
 </div>
 
+# Password Manager #
+
+Day 28 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 24/9/24. Created a Password Manager App using a Graphical User Interface (GUI). There were multiple elements to this project, namely (1) coding the UI, (2) saving the password to a file and (3) generating a random password and copying it to the clipboard. I am proud to say I was able to complete each task independently and with relative ease. I particularly enjoyed creating the UI as it was so satisying arranging the different elements into its position.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/579f9e05-1e07-4b7d-bbea-d895db206bf9" alt="password-manager" />
+</div>
+
