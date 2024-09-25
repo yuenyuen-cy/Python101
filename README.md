@@ -91,3 +91,8 @@ Also fun fact, I solved the "bug" from Day 14! Its caused by pressing "Insert" o
   <img src="https://github.com/user-attachments/assets/579f9e05-1e07-4b7d-bbea-d895db206bf9" alt="password-manager" />
 </div>
 
+Update to the Password Manager in Day 30 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 25/9/24. Learnt about JSON as well as how to catch exceptions. The concept of try and except wasn't intuitive to me at first and I struggled with knowing where to place them. Also added a Search function so that users can pull up their username and password from the same GUI.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4e1afe18-a3b3-4191-82c6-b51ae8837435" alt="password-manager-2" />
+</div>
