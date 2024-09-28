@@ -96,3 +96,11 @@ Update to the Password Manager in Day 30 of <b>100 Days of Code: The Complete Py
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4e1afe18-a3b3-4191-82c6-b51ae8837435" alt="password-manager-2" />
 </div>
+
+# Flash Card Project #
+
+Skipped 2 days but I am back with Day 31 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 28/9/24. Life has been getting busier and it really saddens me to have to miss a day or two. Wanted to attempt the Flash Card Project completely on my own but it proved to be too difficult as I got stuck on how to code certain functions even after searching on Stack Overflow and ended up looking at the solution. I took the extra time to internalise what I couldn't figure out on my own and hopefully the problem solving skills will come more intuitively on the next Capstone project!
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5133e9dc-18e6-4743-8308-6635898af01a" alt="flash-card" width=50% />
+</div>
